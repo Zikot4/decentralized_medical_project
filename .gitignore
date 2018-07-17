@@ -1,0 +1,7 @@
+# ignore IDEA config
+.vscode/
+
+# ignore npm packages
+node_modules/
+
+build/
